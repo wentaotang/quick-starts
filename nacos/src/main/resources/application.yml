@@ -1,0 +1,9 @@
+nacos:
+  config:
+    # 这个是公网的免费的nacos地址
+    server-addr: open.nacos.yuqiyu.com:80
+    type: yaml
+    auto-refresh: true
+    namespace: d94c4fbb-c784-47bd-ae37-6fb4d670763a
+    data-id: app-dev.yaml
+    group: DEFAULT_GROUP
