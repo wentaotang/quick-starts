@@ -12,7 +12,7 @@
     <artifactId>shardingsphere</artifactId>
 
     <properties>
-        <mysql.version>8.0.20</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <mybaits-plus.version>3.3.2</mybaits-plus.version>
         <shardingsphere.version>4.1.1</shardingsphere.version>
         <hikariCP.version>3.4.5</hikariCP.version>
